@@ -1,0 +1,10 @@
+h1 {
+    position: absolute;
+	top: 10px;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display: block;
+	color: black;
+	font-size: 200%;
+}
